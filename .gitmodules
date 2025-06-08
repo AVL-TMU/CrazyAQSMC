@@ -1,0 +1,6 @@
+[submodule "crazyflie-lib-python"]
+	path = crazyflie-lib-python
+	url = https://github.com/Amin-Yazdanshenas/crazyflie-lib-python.git
+[submodule "crazyflie-firmware"]
+	path = crazyflie-firmware
+	url = https://github.com/Amin-Yazdanshenas/crazyflie-firmware.git
