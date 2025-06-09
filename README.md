@@ -4,8 +4,8 @@ This repository provides the official code implementation for the manuscript:
 
 **"Robust and Agile Quadrotor Flight via Adaptive Unwinding-Free Quaternion Sliding Mode Control"**  
 *Amin Yazdanshenas and Reza Faieghi*  
-[[📄 Paper (PDF)]](./Robust_and_Agile_Quadrotor_Flight_via_Adaptive_Unwinding-Free_Quaternion_Sliding_Mode_Control.pdf) • [[🎥 Video Demo]](https://youtu.be/yhFYXKonTRk)
-
+[[🎥 Video Demo]](https://youtu.be/yhFYXKonTRk)
+<!-- [[📄 Paper (PDF)]](./Robust_and_Agile_Quadrotor_Flight_via_Adaptive_Unwinding-Free_Quaternion_Sliding_Mode_Control.pdf) -->
 We propose an adaptive quaternion-based sliding mode controller (AQSMC) for nano quadrotors that:
 - Resolves the **unwinding issue** in quaternion-based controllers,
 - Incorporates **adaptive switching gains** to handle unknown disturbances without overgrowth,
